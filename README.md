@@ -1,3 +1,5 @@
+> Work In Progress - not ready to be used yet :)
+
 # taskwarrior-journal
 
 Extract a journal / diary from TaskWarrior entries
